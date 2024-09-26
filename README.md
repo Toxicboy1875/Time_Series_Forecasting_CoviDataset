@@ -30,6 +30,7 @@ This project applies time series forecasting to model and predict daily COVID-19
    - Seasonal component: (1, 1, 1, 7) for weekly seasonality
    - Training set: 80% of data
    - Testing set: 20% of data
+![641e2257-091f-4c24-bcce-18ae0c2a6beb](https://github.com/user-attachments/assets/3942b1bb-29fa-4ca1-93d0-c93d02d0c0c8)
 
 4. **Forecasting**
    - Evaluated using Mean Absolute Error (MAE)
@@ -38,7 +39,7 @@ This project applies time series forecasting to model and predict daily COVID-19
 5. **Feature Correlation Analysis**
    - Identified significant factors related to death outcomes
    - Generated heatmap for visualizing correlations
-
+![b66ae74d-21d7-408f-b189-ab3a080333a5](https://github.com/user-attachments/assets/e283da5c-80c8-4eaa-b731-bbd3531a73d8)
 ## Results
 
 - SARIMAX model performance:
@@ -60,7 +61,3 @@ The project establishes a foundation for using predictive models in public healt
 - Compare SARIMAX results with other time series models (e.g., Prophet, LSTM)
 - Conduct geospatial analysis if location data is available
 - Explore feature engineering opportunities to enhance predictive power
-
----
-
-For more information or to contribute to this project, please contact [Your Contact Information].
